@@ -1,0 +1,222 @@
+data_VN1
+#
+
+_chem_comp.id                                   VN1
+_chem_comp.name                                 "4-[(1-{(1S,2S)-1-[1-(4-aminobutyl)-1H-1,2,3-triazol-4-yl]-2-methylbutyl}-1H-1,2,3-triazol-4-yl)methoxy]-3-methoxybenzene-1-carboximidamide"
+_chem_comp.type                                 non-polymer
+_chem_comp.pdbx_type                            HETAIN
+_chem_comp.formula                              "C22 H33 N9 O2"
+_chem_comp.mon_nstd_parent_comp_id              ?
+_chem_comp.pdbx_synonyms                        ?
+_chem_comp.pdbx_formal_charge                   0
+_chem_comp.pdbx_initial_date                    2020-08-28
+_chem_comp.pdbx_modified_date                   2021-07-30
+_chem_comp.pdbx_ambiguous_flag                  N
+_chem_comp.pdbx_release_status                  REL
+_chem_comp.pdbx_replaced_by                     ?
+_chem_comp.pdbx_replaces                        ?
+_chem_comp.formula_weight                       455.557
+_chem_comp.one_letter_code                      ?
+_chem_comp.three_letter_code                    VN1
+_chem_comp.pdbx_model_coordinates_details       ?
+_chem_comp.pdbx_model_coordinates_missing_flag  N
+_chem_comp.pdbx_ideal_coordinates_details       Corina
+_chem_comp.pdbx_ideal_coordinates_missing_flag  N
+_chem_comp.pdbx_model_coordinates_db_code       7JWX
+_chem_comp.pdbx_subcomponent_list               ?
+_chem_comp.pdbx_processing_site                 RCSB
+#   #
+loop_
+_chem_comp_atom.comp_id
+_chem_comp_atom.atom_id
+_chem_comp_atom.alt_atom_id
+_chem_comp_atom.type_symbol
+_chem_comp_atom.charge
+_chem_comp_atom.pdbx_align
+_chem_comp_atom.pdbx_aromatic_flag
+_chem_comp_atom.pdbx_leaving_atom_flag
+_chem_comp_atom.pdbx_stereo_config
+_chem_comp_atom.model_Cartn_x
+_chem_comp_atom.model_Cartn_y
+_chem_comp_atom.model_Cartn_z
+_chem_comp_atom.pdbx_model_Cartn_x_ideal
+_chem_comp_atom.pdbx_model_Cartn_y_ideal
+_chem_comp_atom.pdbx_model_Cartn_z_ideal
+_chem_comp_atom.pdbx_component_atom_id
+_chem_comp_atom.pdbx_component_comp_id
+_chem_comp_atom.pdbx_ordinal
+VN1  C1   C1   C  0  1  N  N  N  27.199  -43.610  2.631   5.544  -1.099  -1.430  C1   VN1   1  
+VN1  C10  C2   C  0  1  Y  N  N  35.151  -35.018  4.845  -5.488  -0.806  -0.098  C10  VN1   2  
+VN1  C11  C3   C  0  1  N  N  N  36.234  -34.030  4.933  -6.947  -0.598  -0.228  C11  VN1   3  
+VN1  C12  C4   C  0  1  Y  N  N  35.455  -36.361  4.606  -4.599   0.148  -0.598  C12  VN1   4  
+VN1  C13  C5   C  0  1  Y  N  N  34.465  -37.338  4.533  -3.237  -0.050  -0.474  C13  VN1   5  
+VN1  C14  C6   C  0  1  N  N  N  35.935  -38.936  3.546  -2.933   2.030  -1.587  C14  VN1   6  
+VN1  C15  C7   C  0  1  Y  N  N  29.919  -43.172  4.319   3.684   0.014   0.523  C15  VN1   7  
+VN1  C16  C8   C  0  1  Y  N  N  30.420  -44.013  5.327   3.166   0.859  -0.398  C16  VN1   8  
+VN1  C17  C9   C  0  1  N  N  N  32.542  -45.550  5.505   2.738   3.331  -0.471  C17  VN1   9  
+VN1  C18  C10  C  0  1  N  N  N  33.471  -44.864  6.524   1.711   4.012   0.436  C18  VN1  10  
+VN1  C19  C11  C  0  1  N  N  N  34.628  -45.747  6.987   1.229   5.306  -0.222  C19  VN1  11  
+VN1  C2   C12  C  0  1  N  N  S  27.922  -42.263  2.965   4.239  -1.808  -1.065  C2   VN1  12  
+VN1  C20  C13  C  0  1  N  N  N  35.799  -44.833  7.346   0.202   5.988   0.685  C20  VN1  13  
+VN1  C21  C14  C  0  1  N  N  N  26.899  -41.130  2.897   4.423  -3.320  -1.210  C21  VN1  14  
+VN1  C22  C15  C  0  1  N  N  N  25.976  -41.055  4.103   4.673  -3.665  -2.679  C22  VN1  15  
+VN1  C3   C16  C  0  1  N  N  S  28.691  -42.316  4.332   3.865  -1.476   0.381  C3   VN1  16  
+VN1  C4   C17  C  0  1  Y  N  N  29.821  -40.071  4.023   1.367  -1.701   0.472  C4   VN1  17  
+VN1  C5   C18  C  0  1  Y  N  N  30.048  -38.990  4.865   0.517  -2.634   0.961  C5   VN1  18  
+VN1  C6   C19  C  0  1  N  N  N  30.789  -37.755  4.496  -0.988  -2.593   0.920  C6   VN1  19  
+VN1  C7   C20  C  0  1  Y  N  N  33.111  -37.035  4.695  -2.754  -1.199   0.150  C7   VN1  20  
+VN1  C8   C21  C  0  1  Y  N  N  32.797  -35.682  4.941  -3.638  -2.146   0.646  C8   VN1  21  
+VN1  C9   C22  C  0  1  Y  N  N  33.789  -34.707  5.016  -4.998  -1.951   0.530  C9   VN1  22  
+VN1  N1   N1   N  0  1  Y  N  N  29.123  -40.996  4.793   2.615  -2.155   0.730  N1   VN1  23  
+VN1  N2   N2   N  0  1  N  N  N  35.939  -32.715  5.249  -7.824  -1.537   0.271  N2   VN1  24  
+VN1  N3   N3   N  0  1  N  N  N  37.565  -34.364  4.738  -7.403   0.473  -0.814  N3   VN1  25  
+VN1  N4   N4   N  0  1  Y  N  N  29.502  -39.342  6.128   1.277  -3.600   1.489  N4   VN1  26  
+VN1  N5   N5   N  0  1  Y  N  N  28.985  -40.494  6.078   2.515  -3.286   1.336  N5   VN1  27  
+VN1  N6   N6   N  0  1  Y  N  N  31.611  -44.563  4.819   3.199   2.091   0.159  N6   VN1  28  
+VN1  N7   N7   N  0  1  N  N  N  35.601  -44.022  8.688  -0.261   7.231   0.053  N7   VN1  29  
+VN1  N8   N8   N  0  1  Y  N  N  31.812  -44.038  3.550   3.704   1.987   1.338  N8   VN1  30  
+VN1  N9   N9   N  0  1  Y  N  N  30.845  -43.236  3.278   4.010   0.762   1.584  N9   VN1  31  
+VN1  O1   O1   O  0  1  N  N  N  32.182  -38.038  4.617  -1.414  -1.393   0.271  O1   VN1  32  
+VN1  O2   O2   O  0  1  N  N  N  34.773  -38.657  4.290  -2.368   0.876  -0.960  O2   VN1  33  
+VN1  H1   H1   H  0  1  N  N  N  27.923  -44.437  2.676   5.414  -0.021  -1.327  H1   VN1  34  
+VN1  H2   H2   H  0  1  N  N  N  26.396  -43.786  3.362   6.339  -1.434  -0.763  H2   VN1  35  
+VN1  H3   H3   H  0  1  N  N  N  26.769  -43.554  1.620   5.811  -1.335  -2.460  H3   VN1  36  
+VN1  H4   H4   H  0  1  N  N  N  36.487  -36.650  4.474  -4.975   1.038  -1.080  H4   VN1  37  
+VN1  H5   H5   H  0  1  N  N  N  36.047  -40.025  3.435  -2.133   2.686  -1.929  H5   VN1  38  
+VN1  H6   H6   H  0  1  N  N  N  35.854  -38.473  2.552  -3.538   1.720  -2.439  H6   VN1  39  
+VN1  H7   H7   H  0  1  N  N  N  36.812  -38.528  4.070  -3.559   2.562  -0.871  H7   VN1  40  
+VN1  H8   H8   H  0  1  N  N  N  29.980  -44.199  6.295   2.801   0.601  -1.382  H8   VN1  41  
+VN1  H9   H9   H  0  1  N  N  N  31.935  -46.303  6.030   2.278   3.101  -1.432  H9   VN1  42  
+VN1  H10  H10  H  0  1  N  N  N  33.159  -46.045  4.740   3.586   3.998  -0.624  H10  VN1  43  
+VN1  H11  H11  H  0  1  N  N  N  33.889  -43.959  6.059   0.862   3.345   0.589  H11  VN1  44  
+VN1  H12  H12  H  0  1  N  N  N  32.874  -44.583  7.404   2.170   4.242   1.397  H12  VN1  45  
+VN1  H13  H13  H  0  1  N  N  N  34.324  -46.330  7.869   2.077   5.973  -0.375  H13  VN1  46  
+VN1  H14  H14  H  0  1  N  N  N  34.922  -46.432  6.178   0.769   5.076  -1.183  H14  VN1  47  
+VN1  H15  H15  H  0  1  N  N  N  28.669  -42.088  2.177   3.445  -1.473  -1.732  H15  VN1  48  
+VN1  H16  H16  H  0  1  N  N  N  36.702  -45.453  7.448  -0.646   5.321   0.838  H16  VN1  49  
+VN1  H17  H17  H  0  1  N  N  N  35.939  -44.114  6.526   0.662   6.218   1.646  H17  VN1  50  
+VN1  H18  H18  H  0  1  N  N  N  27.443  -40.177  2.818   5.274  -3.642  -0.610  H18  VN1  51  
+VN1  H19  H19  H  0  1  N  N  N  26.282  -41.275  1.998   3.523  -3.830  -0.865  H19  VN1  52  
+VN1  H20  H20  H  0  1  N  N  N  25.274  -40.218  3.977   5.573  -3.155  -3.023  H20  VN1  53  
+VN1  H21  H21  H  0  1  N  N  N  25.413  -41.996  4.192   4.804  -4.742  -2.782  H21  VN1  54  
+VN1  H22  H22  H  0  1  N  N  N  26.574  -40.898  5.013   3.822  -3.343  -3.278  H22  VN1  55  
+VN1  H23  H23  H  0  1  N  N  N  27.997  -42.732  5.077   4.660  -1.811   1.048  H23  VN1  56  
+VN1  H24  H24  H  0  1  N  N  N  30.122  -40.172  2.991   1.102  -0.782  -0.029  H24  VN1  57  
+VN1  H25  H25  H  0  1  N  N  N  30.512  -36.934  5.174  -1.361  -3.456   0.368  H25  VN1  58  
+VN1  H26  H26  H  0  1  N  N  N  30.552  -37.470  3.460  -1.381  -2.615   1.937  H26  VN1  59  
+VN1  H27  H27  H  0  1  N  N  N  31.764  -35.396  5.074  -3.260  -3.036   1.128  H27  VN1  60  
+VN1  H28  H28  H  0  1  N  N  N  33.505  -33.683  5.211  -5.685  -2.688   0.920  H28  VN1  61  
+VN1  H29  H29  H  0  1  N  N  N  34.992  -32.441  5.416  -7.484  -2.334   0.707  H29  VN1  62  
+VN1  H30  H30  H  0  1  N  N  N  36.673  -32.039  5.310  -8.780  -1.401   0.186  H30  VN1  63  
+VN1  H31  H31  H  0  1  N  N  N  38.170  -33.577  4.856  -8.360   0.609  -0.899  H31  VN1  64  
+VN1  H32  H32  H  0  1  N  N  N  36.404  -43.450  8.854  -0.940   7.700   0.633  H32  VN1  65  
+VN1  H33  H33  H  0  1  N  N  N  34.790  -43.442  8.611   0.516   7.839  -0.159  H33  VN1  66  
+#   #
+loop_
+_chem_comp_bond.comp_id
+_chem_comp_bond.atom_id_1
+_chem_comp_bond.atom_id_2
+_chem_comp_bond.value_order
+_chem_comp_bond.pdbx_aromatic_flag
+_chem_comp_bond.pdbx_stereo_config
+_chem_comp_bond.pdbx_ordinal
+VN1  C1   C2   SING  N  N   1  
+VN1  C21  C2   SING  N  N   2  
+VN1  C21  C22  SING  N  N   3  
+VN1  C2   C3   SING  N  N   4  
+VN1  N9   N8   DOUB  Y  N   5  
+VN1  N9   C15  SING  Y  N   6  
+VN1  C14  O2   SING  N  N   7  
+VN1  N8   N6   SING  Y  N   8  
+VN1  C4   N1   SING  Y  N   9  
+VN1  C4   C5   DOUB  Y  N  10  
+VN1  O2   C13  SING  N  N  11  
+VN1  C15  C3   SING  N  N  12  
+VN1  C15  C16  DOUB  Y  N  13  
+VN1  C3   N1   SING  N  N  14  
+VN1  C6   O1   SING  N  N  15  
+VN1  C6   C5   SING  N  N  16  
+VN1  C13  C12  DOUB  Y  N  17  
+VN1  C13  C7   SING  Y  N  18  
+VN1  C12  C10  SING  Y  N  19  
+VN1  O1   C7   SING  N  N  20  
+VN1  C7   C8   DOUB  Y  N  21  
+VN1  N3   C11  DOUB  N  N  22  
+VN1  N1   N5   SING  Y  N  23  
+VN1  N6   C16  SING  Y  N  24  
+VN1  N6   C17  SING  N  N  25  
+VN1  C10  C11  SING  N  N  26  
+VN1  C10  C9   DOUB  Y  N  27  
+VN1  C5   N4   SING  Y  N  28  
+VN1  C11  N2   SING  N  N  29  
+VN1  C8   C9   SING  Y  N  30  
+VN1  C17  C18  SING  N  N  31  
+VN1  N5   N4   DOUB  Y  N  32  
+VN1  C18  C19  SING  N  N  33  
+VN1  C19  C20  SING  N  N  34  
+VN1  C20  N7   SING  N  N  35  
+VN1  C1   H1   SING  N  N  36  
+VN1  C1   H2   SING  N  N  37  
+VN1  C1   H3   SING  N  N  38  
+VN1  C12  H4   SING  N  N  39  
+VN1  C14  H5   SING  N  N  40  
+VN1  C14  H6   SING  N  N  41  
+VN1  C14  H7   SING  N  N  42  
+VN1  C16  H8   SING  N  N  43  
+VN1  C17  H9   SING  N  N  44  
+VN1  C17  H10  SING  N  N  45  
+VN1  C18  H11  SING  N  N  46  
+VN1  C18  H12  SING  N  N  47  
+VN1  C19  H13  SING  N  N  48  
+VN1  C19  H14  SING  N  N  49  
+VN1  C2   H15  SING  N  N  50  
+VN1  C20  H16  SING  N  N  51  
+VN1  C20  H17  SING  N  N  52  
+VN1  C21  H18  SING  N  N  53  
+VN1  C21  H19  SING  N  N  54  
+VN1  C22  H20  SING  N  N  55  
+VN1  C22  H21  SING  N  N  56  
+VN1  C22  H22  SING  N  N  57  
+VN1  C3   H23  SING  N  N  58  
+VN1  C4   H24  SING  N  N  59  
+VN1  C6   H25  SING  N  N  60  
+VN1  C6   H26  SING  N  N  61  
+VN1  C8   H27  SING  N  N  62  
+VN1  C9   H28  SING  N  N  63  
+VN1  N2   H29  SING  N  N  64  
+VN1  N2   H30  SING  N  N  65  
+VN1  N3   H31  SING  N  N  66  
+VN1  N7   H32  SING  N  N  67  
+VN1  N7   H33  SING  N  N  68  
+#   #
+loop_
+_pdbx_chem_comp_descriptor.comp_id
+_pdbx_chem_comp_descriptor.type
+_pdbx_chem_comp_descriptor.program
+_pdbx_chem_comp_descriptor.program_version
+_pdbx_chem_comp_descriptor.descriptor
+VN1  SMILES            ACDLabs               12.01  "CC(C(c1cn(CCCCN)nn1)n2cc(nn2)COc3c(cc(/C(N)=N)cc3)OC)CC"  
+VN1  InChI             InChI                 1.03   "InChI=1S/C22H33N9O2/c1-4-15(2)21(18-13-30(28-27-18)10-6-5-9-23)31-12-17(26-29-31)14-33-19-8-7-16(22(24)25)11-20(19)32-3/h7-8,11-13,15,21H,4-6,9-10,14,23H2,1-3H3,(H3,24,25)/t15-,21-/m0/s1"  
+VN1  InChIKey          InChI                 1.03   DNIWQYWTKVVYDZ-BTYIYWSLSA-N  
+VN1  SMILES_CANONICAL  CACTVS                3.385  "CC[C@H](C)[C@H](n1cc(COc2ccc(cc2OC)C(N)=N)nn1)c3cn(CCCCN)nn3"  
+VN1  SMILES            CACTVS                3.385  "CC[CH](C)[CH](n1cc(COc2ccc(cc2OC)C(N)=N)nn1)c3cn(CCCCN)nn3"  
+VN1  SMILES_CANONICAL  "OpenEye OEToolkits"  2.0.7  "[H]/N=C(\c1ccc(c(c1)OC)OCc2cn(nn2)[C@H](c3cn(nn3)CCCCN)[C@@H](C)CC)/N"  
+VN1  SMILES            "OpenEye OEToolkits"  2.0.7  "CCC(C)C(c1cn(nn1)CCCCN)n2cc(nn2)COc3ccc(cc3OC)C(=N)N"  
+#   #
+loop_
+_pdbx_chem_comp_identifier.comp_id
+_pdbx_chem_comp_identifier.type
+_pdbx_chem_comp_identifier.program
+_pdbx_chem_comp_identifier.program_version
+_pdbx_chem_comp_identifier.identifier
+VN1  "SYSTEMATIC NAME"  ACDLabs               12.01  "4-[(1-{(1S,2S)-1-[1-(4-aminobutyl)-1H-1,2,3-triazol-4-yl]-2-methylbutyl}-1H-1,2,3-triazol-4-yl)methoxy]-3-methoxybenzene-1-carboximidamide"  
+VN1  "SYSTEMATIC NAME"  "OpenEye OEToolkits"  2.0.7  "4-[[1-[(1~{S},2~{S})-1-[1-(4-azanylbutyl)-1,2,3-triazol-4-yl]-2-methyl-butyl]-1,2,3-triazol-4-yl]methoxy]-3-methoxy-benzenecarboximidamide"  
+#   #
+loop_
+_pdbx_chem_comp_audit.comp_id
+_pdbx_chem_comp_audit.action_type
+_pdbx_chem_comp_audit.date
+_pdbx_chem_comp_audit.processing_site
+VN1  "Create component"  2020-08-28  RCSB  
+VN1  "Initial release"   2021-08-04  RCSB  
+##

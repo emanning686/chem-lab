@@ -1,0 +1,174 @@
+data_I4Q
+# 
+_chem_comp.id                                    I4Q 
+_chem_comp.name                                  "ethyl (2~{S})-2-benzamido-5-carbamimidamido-pentanoate" 
+_chem_comp.type                                  non-polymer 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "C15 H22 N4 O3" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    0 
+_chem_comp.pdbx_initial_date                     2022-06-03 
+_chem_comp.pdbx_modified_date                    2024-08-09 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        306.360 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     I4Q 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        Corina 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        7XXQ 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  PDBJ 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.pdbx_backbone_atom_flag 
+_chem_comp_atom.pdbx_n_terminal_atom_flag 
+_chem_comp_atom.pdbx_c_terminal_atom_flag 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+I4Q O3  O1  O 0 1 N N N N N N 19.369 18.019 10.020 2.292  -0.295 1.627  O3  I4Q 1  
+I4Q O2  O2  O 0 1 N N N N N N 19.497 19.428 14.128 1.689  -2.444 -0.837 O2  I4Q 2  
+I4Q O1  O3  O 0 1 N N N N N N 20.317 18.308 12.361 0.080  -3.627 0.109  O1  I4Q 3  
+I4Q C11 C1  C 0 1 Y N N N N N 16.070 17.671 8.991  3.967  1.820  0.912  C11 I4Q 4  
+I4Q C10 C2  C 0 1 Y N N N N N 17.351 17.152 9.145  2.846  1.446  0.170  C10 I4Q 5  
+I4Q C1  C3  C 0 1 N N N N N N 22.157 17.154 13.228 -0.117 -6.052 0.007  C1  I4Q 6  
+I4Q C2  C4  C 0 1 N N N N N N 21.687 18.485 12.811 0.701  -4.830 -0.415 C2  I4Q 7  
+I4Q C3  C5  C 0 1 N N N N N N 19.332 18.884 13.061 0.679  -2.459 -0.174 C3  I4Q 8  
+I4Q C4  C6  C 0 1 N N S N N N 17.998 18.846 12.302 0.092  -1.168 0.336  C4  I4Q 9  
+I4Q C5  C7  C 0 1 N N N N N N 16.788 19.131 13.206 -1.325 -1.000 -0.216 C5  I4Q 10 
+I4Q C6  C8  C 0 1 N N N N N N 15.537 19.358 12.370 -1.967 0.245  0.398  C6  I4Q 11 
+I4Q C7  C9  C 0 1 N N N N N N 14.631 20.524 12.713 -3.384 0.414  -0.154 C7  I4Q 12 
+I4Q N1  N1  N 0 1 N N N N N N 13.653 20.834 11.658 -3.999 1.607  0.435  N1  I4Q 13 
+I4Q C8  C10 C 0 1 N N N N N N 12.439 21.332 11.883 -5.280 1.962  0.086  C8  I4Q 14 
+I4Q N2  N2  N 0 1 N N N N N N 11.989 21.415 13.119 -5.985 1.199  -0.815 N2  I4Q 15 
+I4Q N3  N3  N 0 1 N N N N N N 11.678 21.764 10.892 -5.827 3.023  0.610  N3  I4Q 16 
+I4Q N4  N4  N 0 1 N N N N N N 17.797 17.620 11.527 0.924  -0.046 -0.105 N4  I4Q 17 
+I4Q C9  C11 C 0 1 N N N N N N 18.264 17.552 10.279 2.006  0.313  0.614  C9  I4Q 18 
+I4Q C12 C12 C 0 1 Y N N N N N 15.314 17.343 7.878  4.744  2.882  0.495  C12 I4Q 19 
+I4Q C13 C13 C 0 1 Y N N N N N 15.825 16.537 6.886  4.412  3.575  -0.656 C13 I4Q 20 
+I4Q C14 C14 C 0 1 Y N N N N N 17.104 16.050 7.007  3.302  3.209  -1.396 C14 I4Q 21 
+I4Q C15 C15 C 0 1 Y N N N N N 17.870 16.368 8.119  2.521  2.146  -0.993 C15 I4Q 22 
+I4Q H1  H1  H 0 1 N N N N N N 15.663 18.332 9.742  4.225  1.282  1.812  H1  I4Q 23 
+I4Q H2  H2  H 0 1 N N N N N N 23.196 17.226 13.581 -0.155 -6.106 1.095  H2  I4Q 24 
+I4Q H3  H3  H 0 1 N N N N N N 21.519 16.778 14.041 -1.130 -5.965 -0.387 H3  I4Q 25 
+I4Q H4  H4  H 0 1 N N N N N N 22.107 16.463 12.373 0.349  -6.955 -0.386 H4  I4Q 26 
+I4Q H5  H5  H 0 1 N N N N N N 22.311 18.870 11.991 0.739  -4.776 -1.503 H5  I4Q 27 
+I4Q H6  H6  H 0 1 N N N N N N 21.723 19.185 13.659 1.714  -4.918 -0.020 H6  I4Q 28 
+I4Q H7  H7  H 0 1 N N N N N N 18.037 19.675 11.580 0.057  -1.190 1.425  H7  I4Q 29 
+I4Q H8  H8  H 0 1 N N N N N N 16.626 18.272 13.874 -1.282 -0.889 -1.300 H8  I4Q 30 
+I4Q H9  H9  H 0 1 N N N N N N 16.989 20.030 13.807 -1.920 -1.878 0.036  H9  I4Q 31 
+I4Q H10 H10 H 0 1 N N N N N N 14.929 18.444 12.443 -2.010 0.135  1.482  H10 I4Q 32 
+I4Q H11 H11 H 0 1 N N N N N N 15.865 19.498 11.329 -1.372 1.123  0.146  H11 I4Q 33 
+I4Q H12 H12 H 0 1 N N N N N N 15.256 21.413 12.881 -3.341 0.525  -1.237 H12 I4Q 34 
+I4Q H13 H13 H 0 1 N N N N N N 14.083 20.281 13.635 -3.979 -0.464 0.099  H13 I4Q 35 
+I4Q H14 H14 H 0 1 N N N N N N 13.918 20.659 10.710 -3.502 2.145  1.070  H14 I4Q 36 
+I4Q H15 H15 H 0 1 N N N N N N 12.558 21.105 13.880 -5.578 0.410  -1.204 H15 I4Q 37 
+I4Q H16 H16 H 0 1 N N N N N N 11.078 21.788 13.295 -6.889 1.451  -1.061 H16 I4Q 38 
+I4Q H17 H17 H 0 1 N N N N N N 10.804 22.122 11.220 -6.731 3.275  0.364  H17 I4Q 39 
+I4Q H19 H19 H 0 1 N N N N N N 17.315 16.842 11.929 0.696  0.439  -0.913 H19 I4Q 40 
+I4Q H20 H20 H 0 1 N N N N N N 14.308 17.725 7.787  5.611  3.173  1.068  H20 I4Q 41 
+I4Q H21 H21 H 0 1 N N N N N N 15.227 16.290 6.021  5.020  4.409  -0.975 H21 I4Q 42 
+I4Q H22 H22 H 0 1 N N N N N N 17.514 15.417 6.234  3.049  3.754  -2.293 H22 I4Q 43 
+I4Q H23 H23 H 0 1 N N N N N N 18.884 16.002 8.189  1.655  1.861  -1.572 H23 I4Q 44 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+I4Q C13 C14 DOUB Y N 1  
+I4Q C13 C12 SING Y N 2  
+I4Q C14 C15 SING Y N 3  
+I4Q C12 C11 DOUB Y N 4  
+I4Q C15 C10 DOUB Y N 5  
+I4Q C11 C10 SING Y N 6  
+I4Q C10 C9  SING N N 7  
+I4Q O3  C9  DOUB N N 8  
+I4Q C9  N4  SING N N 9  
+I4Q N3  C8  DOUB N N 10 
+I4Q N4  C4  SING N N 11 
+I4Q N1  C8  SING N N 12 
+I4Q N1  C7  SING N N 13 
+I4Q C8  N2  SING N N 14 
+I4Q C4  C3  SING N N 15 
+I4Q C4  C5  SING N N 16 
+I4Q O1  C2  SING N N 17 
+I4Q O1  C3  SING N N 18 
+I4Q C6  C7  SING N N 19 
+I4Q C6  C5  SING N N 20 
+I4Q C2  C1  SING N N 21 
+I4Q C3  O2  DOUB N N 22 
+I4Q C11 H1  SING N N 23 
+I4Q C1  H2  SING N N 24 
+I4Q C1  H3  SING N N 25 
+I4Q C1  H4  SING N N 26 
+I4Q C2  H5  SING N N 27 
+I4Q C2  H6  SING N N 28 
+I4Q C4  H7  SING N N 29 
+I4Q C5  H8  SING N N 30 
+I4Q C5  H9  SING N N 31 
+I4Q C6  H10 SING N N 32 
+I4Q C6  H11 SING N N 33 
+I4Q C7  H12 SING N N 34 
+I4Q C7  H13 SING N N 35 
+I4Q N1  H14 SING N N 36 
+I4Q N2  H15 SING N N 37 
+I4Q N2  H16 SING N N 38 
+I4Q N3  H17 SING N N 39 
+I4Q N4  H19 SING N N 40 
+I4Q C12 H20 SING N N 41 
+I4Q C13 H21 SING N N 42 
+I4Q C14 H22 SING N N 43 
+I4Q C15 H23 SING N N 44 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+I4Q InChI            InChI                1.03  "InChI=1S/C15H22N4O3/c1-2-22-14(21)12(9-6-10-18-15(16)17)19-13(20)11-7-4-3-5-8-11/h3-5,7-8,12H,2,6,9-10H2,1H3,(H,19,20)(H4,16,17,18)/t12-/m0/s1" 
+I4Q InChIKey         InChI                1.03  YQDHCCVUYCIGSW-LBPRGKRZSA-N                                                                                                                      
+I4Q SMILES_CANONICAL CACTVS               3.385 "CCOC(=O)[C@H](CCCNC(N)=N)NC(=O)c1ccccc1"                                                                                                        
+I4Q SMILES           CACTVS               3.385 "CCOC(=O)[CH](CCCNC(N)=N)NC(=O)c1ccccc1"                                                                                                         
+I4Q SMILES_CANONICAL "OpenEye OEToolkits" 2.0.7 "[H]/N=C(/N)\NCCC[C@@H](C(=O)OCC)NC(=O)c1ccccc1"                                                                                                 
+I4Q SMILES           "OpenEye OEToolkits" 2.0.7 "CCOC(=O)C(CCCNC(=N)N)NC(=O)c1ccccc1"                                                                                                            
+# 
+_pdbx_chem_comp_identifier.comp_id           I4Q 
+_pdbx_chem_comp_identifier.type              "SYSTEMATIC NAME" 
+_pdbx_chem_comp_identifier.program           "OpenEye OEToolkits" 
+_pdbx_chem_comp_identifier.program_version   2.0.7 
+_pdbx_chem_comp_identifier.identifier        "ethyl (2~{S})-2-benzamido-5-carbamimidamido-pentanoate" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+I4Q "Create component" 2022-06-03 PDBJ 
+I4Q "Initial release"  2024-08-14 RCSB 
+# 
