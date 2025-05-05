@@ -1,4 +1,5 @@
-This repository contains all of my work with [Dr. Paul Craig](https://github.com/paulcraig) during the spring semester of 2024-25.
+This repository contains all of my work in [Dr. Paul Craig's](https://github.com/paulcraig) cheminformatics lab at RIT during the spring semester of 2024-25.
+My goal was to explore machine learning concepts within the bio & chem informatics sphere in order to create useful notebooks for others engaging in this research in the lab and beyond.
 | Directory | Contents |
 | -------- | ------- |
 | /CompletedNotebooks | Fully formatted notebooks for the PUG REST searches resources and the Scikit-Learn and Scikit-Fingerprints demo |
